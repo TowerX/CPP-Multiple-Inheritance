@@ -24,13 +24,22 @@
     <ClCompile Include="Soldier.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Goblin.cpp">
+    <ClCompile Include="Organic.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Grey.cpp">
+    <ClCompile Include="Mechanical.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Nordic.cpp">
+    <ClCompile Include="Summons.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Assault.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Support.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Psionic.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
@@ -41,13 +50,22 @@
     <ClInclude Include="Soldier.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="Goblin.h">
+    <ClInclude Include="Organic.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="Grey.h">
+    <ClInclude Include="Mechanical.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="Nordic.h">
+    <ClInclude Include="Summons.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Assault.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Support.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Psionic.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
