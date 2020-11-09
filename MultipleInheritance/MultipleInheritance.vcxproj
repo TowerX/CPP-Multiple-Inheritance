@@ -152,24 +152,24 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Alien.cpp" />
-    <ClCompile Include="Assault.cpp" />
-    <ClCompile Include="Mechanical.cpp" />
     <ClCompile Include="MultipleInheritance.cpp" />
-    <ClCompile Include="Organic.cpp" />
-    <ClCompile Include="Psionic.cpp" />
     <ClCompile Include="Soldier.cpp" />
-    <ClCompile Include="Summons.cpp" />
-    <ClCompile Include="Support.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Alien.h" />
     <ClInclude Include="Assault.h" />
+    <ClInclude Include="Codex.h" />
+    <ClInclude Include="Faceless.h" />
+    <ClInclude Include="Gunner.h" />
     <ClInclude Include="Mechanical.h" />
     <ClInclude Include="Organic.h" />
     <ClInclude Include="Psionic.h" />
     <ClInclude Include="Soldier.h" />
+    <ClInclude Include="Spectre.h" />
     <ClInclude Include="Summons.h" />
     <ClInclude Include="Support.h" />
+    <ClInclude Include="Templar.h" />
+    <ClInclude Include="Wizard.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
